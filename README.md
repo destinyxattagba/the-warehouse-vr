@@ -1,0 +1,3 @@
+For my final project in CIM 423, Building Virtual Worlds, I decided to create an informative experience about the history of house music, or more specifically, the story of The Warehouse in Chicago.  First, the player starts outside a nightclub called The Warehouse where they interact with a bouncer.  From there, they interact with people inside the club to hear their thoughts on the Warehouse and what it means to them. You can also interact with Frankie Knuckles, the Warehouse’s most famous resident DJ. 
+
+ink to Documentation site (asset links, process, etc): https://www.notion.so/Final-Project-Documentation-Walkthrough-2c8b8c5880028033a01af6ef6c9d539e 
